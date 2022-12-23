@@ -25,4 +25,4 @@ In this project:
 - Pyspark
 
 ## Blog post
-I have write a small blog post on Medium, which can be founded [here](https://medium.com/@tsmstraight/work-from-home-stack-overflow-survey-analysis-d461e3bfd1ac)
+I have write a small blog post on Medium, which can be founded [here](https://medium.com/@tsmstraight/sparkify-perform-churn-analysis-with-pyspark-b2d992631767)
