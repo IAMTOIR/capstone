@@ -6,6 +6,7 @@
  1. [Introduction](#introduction)
  2. [Requirements](#requirments)
  3. [Blog post](#blog-post)
+ 4. [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
 
 ## Introduction
 For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify.
@@ -25,4 +26,8 @@ In this project:
 - Pyspark
 
 ## Blog post
-I have write a small blog post on Medium, which can be founded [here](https://medium.com/@tsmstraight/sparkify-perform-churn-analysis-with-pyspark-b2d992631767)
+I have write a small blog post on Medium, which can be founded [here](hhttps://medium.com/@tsmstraight/sparkify-perform-churn-analysis-with-pyspark-b2d992631767)
+
+
+## Licensing, Authors, Acknowledgements, etc.
+Dataset: Udacity graciously provided the subset dataset (128MB) in the form of a JSON file.
